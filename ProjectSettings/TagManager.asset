@@ -4,7 +4,18 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - sphere
+  - oxygen
+  - hydrogen
+  - carbon
+  - phospherus
+  - sodium
+  - potassium
+  - calcium
+  - copper
+  - sulfur
+  - nitrogen
+  - iron
+  - chloride
   layers:
   - Default
   - TransparentFX
