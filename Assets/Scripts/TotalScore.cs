@@ -12,12 +12,19 @@ public class TotalScore : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 
-        score = GameController.totalScore;
-	}
+        if (Level1Controller.levelComplete == true)
+        {
+            score = Level1Controller.totalScore;
+        }
+        if (Level2Controller.levelComplete == true)
+        {
+            score = Level2Controller.totalScore;
+        }
+    }
 	
 	// Update is called once per frame
 	void Update () {
-        totalScore.text = "You got a total of " + score + " out of 5!";
+        totalScore.text = "You got a total of " + score + " out of 10!";
 	}
 
     public void playAgain()

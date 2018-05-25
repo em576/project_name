@@ -13,16 +13,10 @@ EditorBuildSettings:
     guid: 042a7c02c82642741af69cabd7f08e5c
   - enabled: 1
     path: Assets/Level 2.unity
-    guid: 813edc384f557734a926c91b1f012400
+    guid: c906bb3ec048cb84ba07a05ace117a5c
   - enabled: 1
     path: Assets/Level 3.unity
-    guid: c63e2a9aa1122644eb785f3a0a338c96
-  - enabled: 1
-    path: Assets/Level 4.unity
-    guid: fbc6ad55741f5a94581c75881148b30a
-  - enabled: 1
-    path: Assets/Level 5.unity
-    guid: 7fe5088a6df1cf7429d5c8be812a4783
+    guid: 2bb92a03b4aa1364bab716a3ac049f92
   - enabled: 1
     path: Assets/Total Score.unity
     guid: 6ee8647225b24c544819b4dc4c205078

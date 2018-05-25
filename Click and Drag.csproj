@@ -85,7 +85,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\DragScript.cs" />
-    <Compile Include="Assets\Scripts\GameController.cs" />
+    <Compile Include="Assets\Scripts\Level1Controller.cs" />
+    <Compile Include="Assets\Scripts\Level2Controller.cs" />
+    <Compile Include="Assets\Scripts\Level3Controller.cs" />
     <Compile Include="Assets\Scripts\MenuController.cs" />
     <Compile Include="Assets\Scripts\SpawnSphere.cs" />
     <Compile Include="Assets\Scripts\TotalScore.cs" />
